@@ -30,6 +30,16 @@ grows, for example:
 - Match the existing code style; document deviations.
 - Write clear, descriptive commit messages.
 
+## Code Style
+
+- Use consistent indentation; match the surrounding file's existing style.
+- Prefer clear, descriptive names over abbreviations.
+- Keep functions small and focused on a single responsibility.
+- Remove dead code and unused imports rather than commenting them out.
+- Write comments to explain *why*, not *what*; let the code speak for itself.
+- Format and lint code before committing once tooling is defined.
+- Avoid introducing new dependencies without a clear justification.
+
 ## Workflow
 
 1. Create a branch for your change.
