@@ -2,6 +2,8 @@
 
 A sandbox repository for experimenting with agents.
 
+This project provides a lightweight environment for prototyping, testing, and iterating on AI agent workflows and tooling.
+
 ## Overview
 
 This project is a work in progress. It currently serves as a space to prototype
