@@ -6,6 +6,7 @@ A sandbox repository for experimenting with agents.
 
 This project is a work in progress. It currently serves as a space to prototype
 and test ideas.
+It provides a structured environment for exploring agent-driven workflows, tooling, and automation patterns.
 
 ## Getting Started
 
