@@ -1,0 +1,17 @@
+{
+  "name": "agent-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^4.4.3"
+  }
+}
